@@ -1,0 +1,5 @@
+mark=int(input("Please put your mark:"))
+if mark >= 40:
+    print("Congratulations!!! YOU PASS!")
+else:
+    print("Sorry! You do not pass")
